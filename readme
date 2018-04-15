@@ -1,0 +1,10 @@
+Team Members : Chucheng Lin, Tianyi Ma
+
+
+type make to build the code.
+
+Run with ./database
+
+need to create a release directory to store b+ tree nodes
+
+Detailed instruction will be showed on the program
